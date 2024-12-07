@@ -1,6 +1,3 @@
-Here's a sample **README.md** file for your TypeScript project:
-
----
 
 # 🍕 Pizza Order Management System (TypeScript)
 
